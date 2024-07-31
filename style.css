@@ -64,6 +64,7 @@ form{
     outline: none;
     font-size: 1rem;
     width: auto;
+    background: transparent;
 }
 
 .select-options{
